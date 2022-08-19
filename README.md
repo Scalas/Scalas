@@ -3,7 +3,7 @@ Profile
 
 > **Personal Identification**
 
-* **Name: 정윤재(Jeong Yunjae)**
+* **Name: 정윤재(Jeong Yun jae)**
 * **Email: scala0114@gmail.com**  
 
 <br>
